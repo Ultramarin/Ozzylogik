@@ -1,0 +1,10 @@
+COUNT_SYMBOL = 8
+COLUMN = 6
+LINE = 1024
+FILE_NAME = "test.csv"
+NEW_FILE_NAME = "new_test.csv"
+HOST_NAME = "localhost"
+USER = "legio"
+PASS_MYSQL = "YOUR_PASSWD"
+TABLE = "TEST"
+DB = "TEST"

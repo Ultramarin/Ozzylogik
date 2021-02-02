@@ -1,0 +1,3 @@
+install_deps:
+	poetry env use python3
+	poetry install
